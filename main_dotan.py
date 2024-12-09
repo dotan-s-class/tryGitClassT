@@ -1,3 +1,3 @@
 def func_hazut():
-    print("best git day ever")
+    print("oz gay")
     
