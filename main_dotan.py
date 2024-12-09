@@ -1,2 +1,3 @@
 def func_hazut():
-    print("best git day")
+    print("best git day ever")
+    
