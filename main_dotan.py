@@ -1,2 +1,2 @@
-def func_dotan():
+def func_oz_gay():
     print("best git day")
