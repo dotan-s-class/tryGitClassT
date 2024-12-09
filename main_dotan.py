@@ -1,3 +1,2 @@
 def func_hazut():
-    print("oz gay")
-    
+    print("oz red hair and gay")
