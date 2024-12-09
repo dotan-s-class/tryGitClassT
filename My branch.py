@@ -1,1 +1,2 @@
-print("n")
+def n ():
+    print("n")
