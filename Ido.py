@@ -1,2 +1,2 @@
-def funny2():
+def funny23():
     print("oz is gay")
