@@ -1,2 +1,2 @@
-def func_dotan():
+def func_ido():
     print("best git day")
