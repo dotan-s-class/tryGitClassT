@@ -1,2 +1,2 @@
-def func_dotan():
+def func_hazut():
     print("best git day")
